@@ -1,4 +1,3 @@
 # sorting-
 
-A static website for visualizing different comparison based sorting algorithms.
-• To sort a data structure according to a specific order relationship, such as numerical order or l exicographical order. • Technical Skills: JavaScript, CSS, HTML
+a static webpage that shows various comparison-based sorting algorithms. • To arrange a data structure in a particular order, such as alphabetical or numeric order. • Technical Proficiency: HTML, CSS, and JavaScript
